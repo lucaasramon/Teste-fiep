@@ -21,6 +21,7 @@ Você foi selecionado para participar de um teste técnico para a vaga de Front-
 ## Requisitos
 
 ## 🔌 Endpoints da API
+[Link para mais informações da API](https://fakeapi.platzi.com/en/rest/products/)
 
 ### Produtos
 ```http
